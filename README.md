@@ -20,4 +20,4 @@ Além disso, o contexto das animações está em inglês, mas isso não está na
 
 ## Download
 
-Em breve...
+[Clique aqui para ver todas as versões](https://github.com/Inky1003/aseprite-em-portugues/releases)
